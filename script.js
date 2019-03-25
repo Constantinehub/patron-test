@@ -20,4 +20,4 @@ function getResult(str) {
     console.log(result);
 }
 
-getResult('name\/surname\/birthday\/status\/\/vasya\/petechkin\/10.10.1910\/0\/\/alex\/p\/10.11.1991\/1\/\/pisun\/prostoy\/1.1.1\/-1');
+getResult('name\/surname\/birthday\/status\/\/vasya\/petechkin\/10.10.1910\/0\/\/alex\/p\/10.11.1991\/1\/\/volk\/stepnoy\/20.03.1994\/goloden');
